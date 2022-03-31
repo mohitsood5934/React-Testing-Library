@@ -1,0 +1,14 @@
+Queries : https://testing-library.com/docs/queries/about/#priority
+
+
+Role of the elements : https://www.w3.org/TR/wai-aria/#dfn-element
+
+Jest/DOM , it will give us the list of matchers : https://www.npmjs.com/package/@testing-library/jest-dom -> 
+
+eslint setup for testing library and jest DOM
+1. Assuming eslint is already installed with CRA
+2.npm i eslint-plugin-testing-library eslint-plugin-jest-dom
+
+
+eslint settings for vscode
+https://code.visualstudio.com/docs/getstarted/settings#_settings-file-locations
