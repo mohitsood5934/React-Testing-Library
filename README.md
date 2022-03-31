@@ -2,7 +2,14 @@
 Learning React Testing Library
 
 # Color Button
-User interactions, basic test cases , decribe statement for grouping of test cases
+  - User interactions
+  - Basic test cases
+  - Decribe statement for grouping of test cases
 
 # Sundaes on demand
-Complex user interaction, Multiple form entry , mouse over popup, simulating server response(mock service worker), async app updates (awaiting DOM changes), global state via context
+  - Complex user interaction
+  - Multiple form entry
+  - Mouse over popup
+  - Simulating server response (mock service worker)
+  - Async app updates (awaiting DOM changes)
+  - Global state via context
